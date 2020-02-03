@@ -1,0 +1,11 @@
+# Application requirements
+flask==1.0.2
+flask-restplus==0.13.0
+flask-sqlalchemy==2.3.2
+pytest-flask==0.15.0
+freezegun==0.3.14
+delorean==1.0.0
+faker==4.0.0
+pyjwt==1.7.1
+cryptography==2.8
+parse==1.14.0
