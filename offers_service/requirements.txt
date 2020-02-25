@@ -9,3 +9,4 @@ faker==4.0.0
 pyjwt==1.7.1
 cryptography==2.8
 parse==1.14.0
+Werkzeug==0.16.1
