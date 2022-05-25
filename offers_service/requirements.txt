@@ -6,7 +6,7 @@ pytest-flask==0.15.0
 freezegun==0.3.14
 delorean==1.0.0
 faker==4.0.0
-pyjwt==1.7.1
+pyjwt==2.4.0
 cryptography==2.8
 parse==1.14.0
 Werkzeug==0.16.1
